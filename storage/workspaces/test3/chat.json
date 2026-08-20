@@ -1,0 +1,26 @@
+[
+    {
+        "question": "what is the result",
+        "answer": "The result of the study is that the proposed miniaturized quadrifilar helical antenna for wireless capsule endoscopy (WCE) has a resonant frequency of 3.36 GHz with a bandwidth of 1 GHz, and its performance is satisfactory for the application of WCE. The antenna's radiation pattern is omnidirectional, and its gain is good. The Specific Absorption Rate (SAR) of the antenna is within the safety limit, ensuring the patient's safety."
+    },
+    {
+        "question": "what is the design of the body model",
+        "answer": "The body model is designed with a body phantom that has a muscle layer. The muscle layer has a relative permittivity of 51.6 and a conductivity of 2.44 at 3.36 GHz. The dimension of the muscle layer is 100 x 100 x 100 mm. The body phantom is designed to behave as a GI tract of the human body."
+    },
+    {
+        "question": "what is the configuration of the antenna",
+        "answer": "The configuration of the proposed antenna is as follows: The antenna is designed in CST studio suite software. It has four helix arms on the top and the feeding in the bottom. The helix arms are designed with different angles. The first and the second helix have an angle difference of 45\u00b0. The other two helix arms are in 180\u00b0 angle differences with the first two helix arms."
+    },
+    {
+        "question": "what is the result",
+        "answer": "The result of the antenna's performance inside the body model shows that the radiation efficiency and total efficiency are reduced, with values of -44.26 dB and -52.36 dB respectively. The antenna's radiation pattern is omnidirectional. The proposed antenna has a high resonant frequency and shows linear and elliptical polarization. The bandwidth of the antenna is satisfactory for the application of WCE."
+    },
+    {
+        "question": "what is the antenna",
+        "answer": "I couldn't answer this confidently using the uploaded documents.\n\nReason: The context provides multiple types of antennas, but it does not specify a single antenna being referred to, making it impossible to determine which one is the 'antenna' in question without more specific information."
+    },
+    {
+        "question": "what is the shape of the antenna",
+        "answer": "The shape of the antenna is a quadrifilar helical antenna, which means it has four helix arms."
+    }
+]

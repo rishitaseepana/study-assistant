@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Vector Database
+qdrant_db/
+
+# Uploaded Files
+uploads/
+temp/
+tmp/
+
+# Exported Files
+exports/
+
+# Neo4j
+neo4j/data/
+neo4j/logs/
+neo4j/plugins/
+
+# Cache
+.cache/
+.huggingface/
